@@ -1,6 +1,3 @@
-# encontrei-oficial
-Plataforma para cadastro e divulgação de itens perdidos e encontrados, facilitando a conexão entre pessoas que perderam e quem encontrou objetos.
-
 # Encontrei oficial
 
 Plataforma desenvolvida para auxiliar na localização de objetos perdidos, permitindo que usuários cadastrem itens perdidos ou encontrados, facilitando o reencontro entre pessoas e seus pertences.
