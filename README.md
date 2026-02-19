@@ -29,7 +29,7 @@ O projeto busca reduzir perdas definitivas de objetos pessoais, promovendo colab
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido como iniciativa prática para aplicação de conhecimentos em desenvolvimento backend e soluções com impacto social.
+Projeto desenvolvido por Jorge Henrique, como iniciativa prática aplicada em ambiente profissional na empresa CajuSoft, com foco na aplicação de conhecimentos em desenvolvimento backend e criação de soluções com impacto social.
 
 ## 🚀 Site Online
 
