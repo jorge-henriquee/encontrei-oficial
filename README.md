@@ -30,3 +30,8 @@ O projeto busca reduzir perdas definitivas de objetos pessoais, promovendo colab
 ## 👨‍💻 Autor
 
 Projeto desenvolvido como iniciativa prática para aplicação de conhecimentos em desenvolvimento backend e soluções com impacto social.
+
+## 🚀 Site Online
+
+[🔗 Acessar Plataforma Encontrei](https://encontreioficial.com.br)
+
