@@ -14,14 +14,6 @@ Criar um ambiente simples e acessível onde qualquer pessoa possa divulgar a per
 * Listagem pública de registros
 * Contato entre as partes envolvidas
 
-## 🛠 Tecnologias Utilizadas
-
-* Node.js
-* Express.js
-* Banco de Dados Relacional
-* APIs REST
-* Upload de imagens
-
 
 ## 💡 Impacto Social
 
